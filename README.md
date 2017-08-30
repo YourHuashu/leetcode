@@ -1,2 +1,2 @@
 # leetcode
-Leetcode every day!
+Leetcoding every day ^_^
