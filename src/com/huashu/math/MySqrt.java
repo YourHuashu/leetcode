@@ -1,8 +1,8 @@
 package com.huashu.math;
 
 /*69. Sqrt(x)
-Implement int sqrt(int x).*/
-Compute and return the square root of x.
+Implement int sqrt(int x).
+Compute and return the square root of x.*/
 public class MySqrt {
 
 	public int mySqrt(int x) {
